@@ -8,9 +8,9 @@
 /__pycache__
 /anaconda_projects
 /ft_histogram.png
-/gene_model.gff
-/gene_model.gff.gz
-/genotype.csv
-/genotype.csv.gz
+/data/gene_model.gff
+/data/genotype.csv
 /plots.tex
-/processed.csv
+/data/processed.csv
+data/.DS_Store
+*.pyc
