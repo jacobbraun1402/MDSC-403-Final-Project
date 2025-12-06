@@ -1,0 +1,16 @@
+/.DS_Store
+/.RDataTmp
+/.Rhistory
+/.ipynb_checkpoints
+/.venv
+/403Project.Rmd
+/FT10.txt
+/__pycache__
+/anaconda_projects
+/ft_histogram.png
+/gene_model.gff
+/gene_model.gff.gz
+/genotype.csv
+/genotype.csv.gz
+/plots.tex
+/processed.csv
