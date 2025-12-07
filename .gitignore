@@ -14,3 +14,4 @@
 /data/processed.csv
 data/.DS_Store
 *.pyc
+/plot_images
